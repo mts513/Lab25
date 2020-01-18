@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer+SC&display=swap');
+
+body{
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1564316915543-b36a51db1a04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80);
+  font-family: 'IM Fell Great Primer SC', serif;
+  .App{
+    background-color: rgba(165, 108, 42, 0.925);
+    max-width: 400px;
+    margin: auto;
+    border-radius: 30px;
+    font-size: 25px;
+    button{
+      margin: 5px;
+    }
+    .books{
+      background-color: rgba(236, 216, 98, 0.459);
+      margin: 50px;
+      border-radius: 30px;
+
+    }
+  }
+}
